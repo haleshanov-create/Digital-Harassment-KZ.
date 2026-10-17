@@ -21,7 +21,7 @@ Python, Google Colab, Pandas, BeautifulSoup, Feedparser, Trafilatura, Plotly, Gr
 
 ## Запуск
 
-1. Откройте ноутбук `Digital_Harassment_KZ_dataset.csv` в Google Colab.
+1. Откройте ноутбук `Digital_Harassment_KZ_dataset (2).csv` в Google Colab.
 2. Выполните ячейки последовательно сверху вниз.
 3. Дождитесь сбора и обработки публикаций.
 4. Откройте дашборд, чтобы изучить результаты.
