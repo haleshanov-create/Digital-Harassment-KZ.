@@ -5,3 +5,6 @@ feedparser
 trafilatura
 plotly
 gradio
+pandas
+gradio
+plotly
