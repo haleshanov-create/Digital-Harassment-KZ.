@@ -85,7 +85,7 @@ Gradio-приложения. До публикации приложения эт
 
 ```{=html}
 <!-- После публикации замените строку выше ссылкой, например:
-[🚀 Открыть интерактивный дашборд](https://huggingface.co/spaces/ВАШ_АККАУНТ/digital-harassment-kz)
+[🚀 Открыть интерактивный дашборд]([https://huggingface.co/spaces/ВАШ_АККАУНТ/digital-harassment-kz](https://cc5a8e08e688fa93b8.gradio.live/))
 -->
 ```
 ## ◈ Запуск проекта
