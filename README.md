@@ -6,7 +6,7 @@
 
 **Cybersecurity · Data Analytics · Python**
 
-[📊 Открыть интерактивный дашборд](https://huggingface.co/spaces/ТВОЙ-АККАУНТ/digital-harassment-kz)
+[📊 Открыть интерактивный дашборд][(https://huggingface.co/spaces/ТВОЙ-АККАУНТ/digital-harassment-kz)](https://cc5a8e08e688fa93b8.gradio.live)
 
 [📁 Посмотреть датасет](Digital_Harassment_KZ_dataset.csv)
 
