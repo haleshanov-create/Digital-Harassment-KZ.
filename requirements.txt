@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+feedparser
+trafilatura
+plotly
+gradio
