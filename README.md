@@ -10,7 +10,7 @@
 
 **Исследовательский проект по анализу новостных публикаций о цифровом преследовании, шантаже и кибербуллинге в Казахстане.**
 
-[📊 Открыть интерактивный дашборд](https://461bbc3413f7f0a7a8.gradio.live/) · [📁 Открыть датасет](Digital_Harassment_KZ_dataset.csv) · [💻 Открыть код](Digital_Harassment_KZ.ipynb)
+[📊 Открыть интерактивный дашборд](https://461bbc3413f7f0a7a8.gradio.live/) · [📁 Открыть датасет](Digital_Harassment_KZ_dataset.csv) · [💻 Открыть исходный код](Digital_Harassment_KZ.ipynb)
 
 </div>
 
